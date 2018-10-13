@@ -1,13 +1,10 @@
-# Tensorflow.js MNIST Angular Demo
+# Machine learning TensorFlow model with Angular
+
+https://medium.com/@dhormale/integrate-machine-learning-tensorflow-model-with-angular-d72ec9287520
 
 Simplified implementation of Tensorflow.js MNIST Angular Demo
+https://dhormale.github.io/angular-tensorFlow-integration/
 
 This demo imports an MNIST ConvNet trained in Keras Python, then makes predictions with TensorFlow.js
 
-- clone it, cd into it, `npm install && ng serve`
-
-## Use a Different Keras Model
-
-```
-tensorflowjs_converter --input_format keras keras/yourWeights.h5 src/assets
-```
+clone , cd into it, `npm install && ng serve`
